@@ -1,0 +1,6 @@
+res://src/world/World.tscn
+res://src/player/Player.gd
+res://src/ui/DialogPlayer.gd
+res://src/player/Player.tscn
+res://src/ui/DialogPlayer.tscn
+res://src/world/DialogArea.gd
