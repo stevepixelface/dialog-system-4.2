@@ -2,6 +2,6 @@
 
 # Godot Tutorial: Dialog System
 
-Update 4.2 version of the below tutorial I created awhile ago.
+Updated Godot 4.2 version of the below tutorial I created awhile ago.
 
 YouTube Video: https://youtu.be/Ur9j3c5_of0
